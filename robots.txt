@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-8thqjl.juragan89c.online/sitemap.xml
